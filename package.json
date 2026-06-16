@@ -1,0 +1,25 @@
+{
+  "name": "@fabriziolami-cmd/Logaritmicspiralisvelociraptor-Nexus",
+  "version": "1.0.0",
+  "description": "More fast than the light.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logarithmic",
+    "spiral",
+    "velociraptor",
+    "nexus"
+  ],
+  "author": "fabriziolami-cmd",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabriziolami-cmd/Logaritmicspiralisvelociraptor-Nexus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fabriziolami-cmd/Logaritmicspiralisvelociraptor-Nexus/issues"
+  },
+  "homepage": "https://github.com/fabriziolami-cmd/Logaritmicspiralisvelociraptor-Nexus#readme"
+}
