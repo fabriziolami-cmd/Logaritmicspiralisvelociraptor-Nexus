@@ -1,0 +1,10 @@
+https://github.com/fabriziolami-cmd/Logaritmicspiralisvelociraptor-Nexus/blame/main/package.json
+
+Verification:
+- Status: reachable (file fetched successfully)
+- Permalink used: https://github.com/fabriziolami-cmd/Logaritmicspiralisvelociraptor-Nexus/blob/f7f03f5de880fdb58225eaa09ffa331a728b8afa/package.json
+- Commit OID: f7f03f5de880fdb58225eaa09ffa331a728b8afa
+- Blob SHA: 2fa85f387b7e7f417bd602fd528837699023d9f1
+- Verified on: 2026-07-05
+
+Note: File created by GitHub Copilot on behalf of fabriziolami-cmd to record HTTPS link verification.
